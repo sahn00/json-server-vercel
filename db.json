@@ -45,6 +45,11 @@
           "projRewardName": "10월21일/토요일",
           "projRewardAmount": 13000,
           "projRewardCount": 10
+        },
+        {
+          "projRewardName": "10월18일/수요일",
+          "projRewardAmount": 30000,
+          "projRewardCount": 4
         }
       ],
       "projFundDate": [
