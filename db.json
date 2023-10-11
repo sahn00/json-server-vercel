@@ -17,5 +17,43 @@
     {
       "name": "typicode"
     }
+  ],
+  "projects": [
+    {
+      "proj_id": 0,
+      "userMade_id": 1,
+      "projName": "[오늘은 여행자 살롱] 내뫔(몸과맘)의 디톡스, DIY!",
+      "projRegion": 5,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/Cover/7a96c12df916464891b9de7b4e8cf35b.jpg",
+      "projDetailImgPath": [
+        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/03ef6efa91114d4da53c08e75e95a3dc.jpg",
+        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/f7c5aedc213349b192516c57235ed849.jpg",
+        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/fa026c65782e43b088899c10fff519c2.jpg",
+        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/10f67367920e422baa2775253c5aa6d6.jpg",
+        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/c39d3c3417454cbbabcc014e2304a413.jpg"
+      ],
+      "projIntro": "천연 아로마오일을 이용하여 내몸과 마음을 디톡스하는 시간을 체험하고 만들어봅니다.",
+      "projDesc": "내뫔(몸과맘)의, 디톡스 DIY!",
+      "projTag": 1,
+      "projPlace": "마음놀이터&맘청",
+      "projAddr": "강원특별자치도 춘천시 삭주로194번길 8",
+      "projDate": [
+        "2023-10-21(토) 10:00 ~ 2023-10-21(토) 17:00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "10월21일/토요일",
+          "projRewardAmount": 13000,
+          "projRewardCount": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-10-10",
+          "projFundEndDate": "2023-11-13"
+        }
+      ],
+      "projStatus": "1"
+    }
   ]
 }
