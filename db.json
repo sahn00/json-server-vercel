@@ -1,105 +1,147 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": [
-    {
-      "name": "typicode"
-    }
-  ],
   "projects": [
     {
-      "proj_id": 0,
+      "proj_id":0,
       "userMade_id": 1,
       "projName": "[오늘은 여행자 살롱] 내뫔(몸과맘)의 디톡스, DIY!",
-      "projRegion": 5,
+      "projRegion": 5 ,
       "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/Cover/7a96c12df916464891b9de7b4e8cf35b.jpg",
-      "projDetailImgPath": [
-        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/03ef6efa91114d4da53c08e75e95a3dc.jpg",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/f7c5aedc213349b192516c57235ed849.jpg",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/fa026c65782e43b088899c10fff519c2.jpg",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/10f67367920e422baa2775253c5aa6d6.jpg",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/c39d3c3417454cbbabcc014e2304a413.jpg"
-      ],
+      "projDetailImgPath": ["https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/03ef6efa91114d4da53c08e75e95a3dc.jpg", "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/f7c5aedc213349b192516c57235ed849.jpg","https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/fa026c65782e43b088899c10fff519c2.jpg","https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/10f67367920e422baa2775253c5aa6d6.jpg","https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/c39d3c3417454cbbabcc014e2304a413.jpg"],
       "projIntro": "천연 아로마오일을 이용하여 내몸과 마음을 디톡스하는 시간을 체험하고 만들어봅니다.",
       "projDesc": "<div class='sandbox'><div align='left' style='text-align: left;'><br></div><div align='center' style='text-align: center;'><span style='font-size: 24px; font-family: 굴림, Gulim; background-color: rgb(255, 255, 255); color: rgb(0, 158, 37);'><b>내뫔(몸과맘)의, 디톡스 DIY!</b></span></div><div align='left' style='text-align: left;'><br></div><div align='left' style='text-align: left;'><span style='font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;&nbsp;<span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'><b>아름다운 춘천여행 향기까지 잡~GO고 가는 추억을 체험하세요!</b></span></span></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;홈닥터 역할을 하는 아로마오일을 이용하여 향기를 체험하며 마음을 디톡스합니다.!</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;항균, 항바<span style='font-size: 9px; font-family: 돋움체, DotumChe, AppleGothic;'>﻿</span>이러스등 다양한 효능을 통하여 몸을 디톡스 합니다!</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;내맘의 상큼상큼&nbsp;</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;내몸의 클린클린</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;향 잡 GO</span></b></div><div align='left' style='text-align: left;'><span style='font-family: 굴림, Gulim;'><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'><b>&nbsp;뫔 잡 GO</b></span></span></div><div align='left' style='text-align: left;'><br></div><div align='left' style='text-align: left;'><span style='font-size: 16px;'>&nbsp;&nbsp;</span><b><span style='font-size: 16px;'>가족 친구 연인&nbsp; 모든 분들 환영합니다.^^&nbsp;</span></b></div><div align='left' style='text-align: left;'><br></div><div align='left' style='text-align: left;'><span style='font-size: 16px;'><b>2인 이상 시간변경 필요신분들 문의주세요.</b></span></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;<span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>*</span></span></b><b><span style='font-size: 14px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>(<span style='font-size: 16px; color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>프로그램 운영시간)&nbsp;</span></span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 158, 37);'>&nbsp;<span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>1회차&nbsp; 9월 23일 토요일 오전&nbsp;</span></span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 158, 37);'><span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>10~12시</span></span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>&nbsp;2회차&nbsp; 10월 21일&nbsp;</span></b><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>토요일 오전 10~12시</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>&nbsp;3회차&nbsp; 11월 18일 </span></b><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>토요일 오전 10~12시</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>&nbsp;4회차&nbsp; 12월 09일 </span></b><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>토요일 오전 10~12시</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 굴림, Gulim;'><br></span></b></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 굴림, Gulim;'><b><span style='font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;</span><span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>*체험비</span><span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>; 향기체험과 오일폼클렌징DIY 13,000원&nbsp;</span></b></span></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 굴림, Gulim;'><b><span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'><br></span></b></span></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'><b>&nbsp;*다정한 징표; 레몬오일소금치약&nbsp;</b></span></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'><b><br></b></span></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'><b>&nbsp;*준비물 ; 향기호기심</b></span></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'><b><br></b></span></div><div align='left' style='text-align: left;'><img src='undefined'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/03ef6efa91114d4da53c08e75e95a3dc.jpg'>&nbsp;<img src='undefined'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/f7c5aedc213349b192516c57235ed849.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/fa026c65782e43b088899c10fff519c2.jpg'></div><div align='left' style='text-align: left;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/10f67367920e422baa2775253c5aa6d6.jpg'></div><div align='left' style='text-align: left;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/c39d3c3417454cbbabcc014e2304a413.jpg'></div></div>",
       "projTag": 1,
       "projPlace": "마음놀이터&맘청",
       "projAddr": "강원특별자치도 춘천시 삭주로194번길 8",
-      "projDate": [
-        "2023-10-21(토) 10:00 ~ 2023-10-21(토) 17:00"
-      ],
-      "projReward": [
-        {
-          "projRewardName": "10월21일/토요일",
-          "projRewardAmount": 13000,
-          "projRewardCount": 10
-        },
-        {
-          "projRewardName": "10월18일/수요일",
-          "projRewardAmount": 30000,
-          "projRewardCount": 4
-        }
-      ],
-      "projFundDate": [
-        {
-          "projFundStartDate": "2023-10-10",
-          "projFundEndDate": "2023-11-13"
-        }
-      ],
+      "projDate": ["2023-10-21(토) 10:00 ~ 2023-10-21(토) 17:00"],
+      "projReward": [{"projRewardName":"10월21일/토요일" , "projRewardAmount": 13000, "projRewardCount":10}],
+      "projFundDate": [{"projFundStartDate":"2023-10-10", "projFundEndDate": "2023-11-13"}],
       "projStatus": "1"
     },
-        {
-      "proj_id": 0,
-      "userMade_id": 1,
-      "projName": "사본-[오늘은 여행자 살롱] 내뫔(몸과맘)의 디톡스, DIY!",
-      "projRegion": 5,
-      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/Cover/7a96c12df916464891b9de7b4e8cf35b.jpg",
-      "projDetailImgPath": [
-        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/03ef6efa91114d4da53c08e75e95a3dc.jpg",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/f7c5aedc213349b192516c57235ed849.jpg",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/fa026c65782e43b088899c10fff519c2.jpg",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/10f67367920e422baa2775253c5aa6d6.jpg",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/c39d3c3417454cbbabcc014e2304a413.jpg"
-      ],
-      "projIntro": "천연 아로마오일을 이용하여 내몸과 마음을 디톡스하는 시간을 체험하고 만들어봅니다.",
-      "projDesc": "<div class='sandbox'><div align='left' style='text-align: left;'><br></div><div align='center' style='text-align: center;'><span style='font-size: 24px; font-family: 굴림, Gulim; background-color: rgb(255, 255, 255); color: rgb(0, 158, 37);'><b>내뫔(몸과맘)의, 디톡스 DIY!</b></span></div><div align='left' style='text-align: left;'><br></div><div align='left' style='text-align: left;'><span style='font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;&nbsp;<span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'><b>아름다운 춘천여행 향기까지 잡~GO고 가는 추억을 체험하세요!</b></span></span></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;홈닥터 역할을 하는 아로마오일을 이용하여 향기를 체험하며 마음을 디톡스합니다.!</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;항균, 항바<span style='font-size: 9px; font-family: 돋움체, DotumChe, AppleGothic;'>﻿</span>이러스등 다양한 효능을 통하여 몸을 디톡스 합니다!</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;내맘의 상큼상큼&nbsp;</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;내몸의 클린클린</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;향 잡 GO</span></b></div><div align='left' style='text-align: left;'><span style='font-family: 굴림, Gulim;'><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'><b>&nbsp;뫔 잡 GO</b></span></span></div><div align='left' style='text-align: left;'><br></div><div align='left' style='text-align: left;'><span style='font-size: 16px;'>&nbsp;&nbsp;</span><b><span style='font-size: 16px;'>가족 친구 연인&nbsp; 모든 분들 환영합니다.^^&nbsp;</span></b></div><div align='left' style='text-align: left;'><br></div><div align='left' style='text-align: left;'><span style='font-size: 16px;'><b>2인 이상 시간변경 필요신분들 문의주세요.</b></span></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;<span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>*</span></span></b><b><span style='font-size: 14px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>(<span style='font-size: 16px; color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>프로그램 운영시간)&nbsp;</span></span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 158, 37);'>&nbsp;<span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>1회차&nbsp; 9월 23일 토요일 오전&nbsp;</span></span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 158, 37);'><span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>10~12시</span></span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>&nbsp;2회차&nbsp; 10월 21일&nbsp;</span></b><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>토요일 오전 10~12시</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>&nbsp;3회차&nbsp; 11월 18일 </span></b><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>토요일 오전 10~12시</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>&nbsp;4회차&nbsp; 12월 09일 </span></b><b><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'>토요일 오전 10~12시</span></b></div><div align='left' style='text-align: left;'><b><span style='font-size: 16px; font-family: 굴림, Gulim;'><br></span></b></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 굴림, Gulim;'><b><span style='font-family: 돋움체, DotumChe, AppleGothic;'>&nbsp;</span><span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>*체험비</span><span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'>; 향기체험과 오일폼클렌징DIY 13,000원&nbsp;</span></b></span></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 굴림, Gulim;'><b><span style='color: rgb(0, 0, 0); font-family: 돋움체, DotumChe, AppleGothic;'><br></span></b></span></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'><b>&nbsp;*다정한 징표; 레몬오일소금치약&nbsp;</b></span></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'><b><br></b></span></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'><b>&nbsp;*준비물 ; 향기호기심</b></span></div><div align='left' style='text-align: left;'><span style='font-size: 16px; font-family: 돋움체, DotumChe, AppleGothic; color: rgb(0, 0, 0);'><b><br></b></span></div><div align='left' style='text-align: left;'><img src='undefined'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/03ef6efa91114d4da53c08e75e95a3dc.jpg'>&nbsp;<img src='undefined'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/f7c5aedc213349b192516c57235ed849.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/fa026c65782e43b088899c10fff519c2.jpg'></div><div align='left' style='text-align: left;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/71356/ProjectInfo/10f67367920e422baa2775253c5aa6d6.jpg'></div><div align='left' style='text-align: left;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/greentea71/null/ProjectInfo/c39d3c3417454cbbabcc014e2304a413.jpg'></div></div>",
-      "projTag": 1,
-      "projPlace": "마음놀이터&맘청",
-      "projAddr": "강원특별자치도 춘천시 삭주로194번길 8",
-      "projDate": [
-        "2023-10-21(토) 10:00 ~ 2023-10-21(토) 17:00"
-      ],
-      "projReward": [
-        {
-          "projRewardName": "10월21일/토요일",
-          "projRewardAmount": 13000,
-          "projRewardCount": 10
-        },
-        {
-          "projRewardName": "10월18일/수요일",
-          "projRewardAmount": 30000,
-          "projRewardCount": 4
-        }
-      ],
-      "projFundDate": [
-        {
-          "projFundStartDate": "2023-10-10",
-          "projFundEndDate": "2023-11-13"
-        }
-      ],
+    {
+      "proj_id":1,
+      "userMade_id": 2,
+      "projName": "스타트업 C레벨들의 모임, 'CXO의 작당모의' 참여자 모집",
+      "projRegion": 0 ,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/startupcert/70064/ProjectInfo/Cover/13febf09263e46c2993bc1f138093b77.png",
+      "projDetailImgPath": ["https://eventusstorage.blob.core.windows.net/evs/Image/startupcert/null/ProjectInfo/1837e31b12074298b6b413622a635010.png"],
+      "projIntro": "스타트업 C레벨들이 모여 업계 이야기를 나누는 'CXO의 작당모의'를 통해 네트워킹부터 성장까지 얻어가세요!",
+      "projDesc": "<div class='sandbox'><p><b><img src='https://eventusstorage.blob.core.windows.net/evs/Image/startupcert/null/ProjectInfo/1837e31b12074298b6b413622a635010.png'></b></p><p><b><img src='https://eventusstorage.blob.core.windows.net/evs/Image/startupcert/null/ProjectInfo/92ece4361cc540c1a12084081dfcfbed.png'>※ CXO의 작당모의는 오직 C레벨을 위한 네트워킹 모임으로,</b></p><p><b>C레벨임을 확인하기 위해 이벤터스 신청 내 명함 이미지 첨부를 필수로 요청드리고 있습니다.</b></p><p><b>명함 이미지 미첨부 시, 신청 취소될 수 있음을 사전 안내드립니다.</b></p><p><br></p><p><br></p><p><br></p><p>스타트업 C레벨들의 모임, 'CXO의 작당모의'에 참여하실 분들을 모집합니다!</p><p><br></p><p><b><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'>🔍&nbsp;</span>CXO의 작당모의<span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;'><span style='text-wrap: nowrap;'>란?</span></span></b></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'>CEO, CFO, CMO 등 C 레벨이 모여 회사의 성장을 위한 작당모의를 하는 모임으로,</span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'>C레벨이 아닌 스타트업 종사자는 참여할 수 없습니다.</span></p><p><br></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'>​<b style='font-size: 1em;'>🔍 모임 주제 :&nbsp;</b>&nbsp;</span></p><p>9/6 - 인증과 정부지원</p><p>9/20 - 기업의 자금과 부동산</p><p>10/4 - 기업의 스펙준비(인증)</p><p>10/18 - 24년 정부지원금 준비</p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;'><span style='text-wrap: nowrap;'><b><br></b></span></span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;'><span style='text-wrap: nowrap;'>이외 모임원들이 원하는 주제로 모임의 주제가 결정됩니다.</span></span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;'><span style='text-wrap: nowrap;'><br></span></span></p><p><b style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap;'>🔍 모임 방식 :&nbsp;</b><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;'><span style='text-wrap: nowrap;'>&nbsp;</span></span></p><p><span style='text-wrap: nowrap; font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;'>9월부터 10월까지의 모임에 참여할 분을 모집합니다.</span></p><p>수요일 오전 10시부터 12시까지 2시간 동안 진행되며,&nbsp;</p><p>2주에 한 번 카카오톡 단체방에 공지된 주제로 2시간 동안 오프라인 모임이 진행됩니다.</p><p>모임은 3개월간 지속될 예정이며, 모임원들이 원한다면 기간 연장도 가능합니다.</p><p><br></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'><b><span style='font-size: 1em;' aria-label='🔍' role='img'>🔍 신청 기간 :&nbsp;</span>&nbsp;</b></span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'>상시 접수</span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'><b><br></b></span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'><b>🔍 신청 방법 :&nbsp;</b>&nbsp;</span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;'><span style='text-wrap: nowrap;'>참여하고자 하는 모임 일자를 선택하여(복수 참여 가능)</span></span><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; font-size: 1em; text-wrap: nowrap;'>이벤터스를 통해 신청하여 주시면, 영업일 기준 3일 이내 카카오톡 단체방에 초대해 드릴 예정입니다.</span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;'><span style='text-wrap: nowrap;'>신청 시, C레벨 인증을 위하여 명함 이미지 첨부를 필수적으로 받고 있습니다.</span></span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;'><span style='text-wrap: nowrap;'>승인 과정 중 C레벨임이 인정되지 않을 시 신청 취소될 수 있습니다.</span></span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'><span style='font-size: 1em;' aria-label='🔍' role='img'><b><br></b></span></span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'><span style='font-size: 1em;' aria-label='🔍' role='img'><b>🔍 모임 공간 :&nbsp;</b><b>&nbsp;</b></span></span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'>​앤스카페(서울특별시 서초구 방배선행길 12)<br></span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'><span style='font-size: 1em;' aria-label='🔍' role='img'></span></span></p><p><br></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'><span style='font-size: 1em;' aria-label='🔍' role='img'><b>🔍 문 의 처 :&nbsp;</b><b>&nbsp;</b></span></span></p><p><span style='font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; text-wrap: nowrap; font-size: 1em;' aria-label='🔍' role='img'>스타트업인증센터(02-585-0210)</span></p></div>",
+      "projTag": 0,
+      "projPlace": "앤스카페",
+      "projAddr": "서울 서초구 방배선행길 12",
+      "projDate": ["2023-09-06(수) 10:00 ~ 2023-09-06(수) 12:00", "2023-10-18(수) 10:00 ~ 2023-10-18(수) 12:00"],
+      "projReward": [{"projRewardName":"9월6일/수요일" , "projRewardAmount": 30000, "projRewardCount":5}, {"projRewardName":"10월18일/수요일" , "projRewardAmount": 30000, "projRewardCount":4}],
+      "projFundDate": [{"projFundStartDate":"2023-9-6", "projFundEndDate": "2023-10-18"}],
+      "projStatus": "1"
+    },
+{
+      "proj_id":2,
+      "userMade_id": 3,
+      "projName": "앤릴크밤 최초 내한 반려견 행동학 세미나",
+      "projRegion": 0 ,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/Cover/8b1b25d1f8a6487894c187b4cad22f84.png",
+      "projDetailImgPath": ["https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/ea6dd3e27f974c70abe446b68e9226ef.png","https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/cc428f60b1d84e6d878299813f949286.png","https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/fbc5018782b940f7bcc19b55d434c4f1.png","https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/d90305d03b3d4dcb9b2a99d21b6fa10c.png","https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/77f089d7df5b4d128fec6483d5985975.png","https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/f2b03fbc70634b59b281914b8cefaf68.png","https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/8061f0e3a7f54972ade5d5140eba2956.png","https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/680fe6946c47458eb6ca4a02bf9b751f.png"],
+      "projIntro": "노르웨이의 반려견 행동학 거장, 앤릴 크밤이 한국에 찾아옵니다!",
+      "projDesc": "<div class='sandbox'><div align='center' style='text-align: center;'>&nbsp;<img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/ea6dd3e27f974c70abe446b68e9226ef.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/cc428f60b1d84e6d878299813f949286.png'></div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/fbc5018782b940f7bcc19b55d434c4f1.png'>&nbsp;</div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/d90305d03b3d4dcb9b2a99d21b6fa10c.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/77f089d7df5b4d128fec6483d5985975.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/f2b03fbc70634b59b281914b8cefaf68.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/8061f0e3a7f54972ade5d5140eba2956.png'></div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/680fe6946c47458eb6ca4a02bf9b751f.png'>&nbsp;</div><div align='center' style='text-align: center;'><b><span style='font-size: 20px;'>*얼리버드 신청이 마감되어 일반 티켓 구매만 가능합니다!</span></b></div><div align='center' style='text-align: center;'><br></div><div align='center' style='text-align: center;'>※환불 안내※</div><div align='center' style='text-align: center;'>세미나 7일 전까지 100% 환불, 그 이후부터는 환불 불가능.</div></div>",
+      "projTag": 2,
+      "projPlace": "서울현대교육재단 본관 지하 1층 세미나실",
+      "projAddr": "서울 영등포구 양평로12길 13",
+      "projDate": ["2023-11-11(토) 10:00 ~ 2023-11-12(일) 17:00"],
+      "projReward": [{"projRewardName":"일반" , "projRewardAmount": 300000, "projRewardCount":19}],
+      "projFundDate": [{"projFundStartDate":"2023-06-01", "projFundEndDate": "2023-11-01"}],
       "projStatus": "1"
     }
-  ]
+  ],
+  "users": [
+    {
+      "users_id": 0,
+      "userName": "json운영자",
+      "userMail": "jsonAdmin@admin.com",
+      "userPassword": "admin",
+      "userPhoneNum": "",
+      "userAddr": "",
+      "role": 1,
+      "token": "",
+      "tokenExp": ""
+    },
+    {
+      "users_id": 1,
+      "userName": "json유저1",
+      "userMail": "jsonUser1@user.com",
+      "userPassword": "user1",
+      "userPhoneNum": "json유저1핸드폰번호",
+      "userAddr": "json유저1주소",
+      "role": 0,
+      "token": "",
+      "tokenExp": ""
+    },
+    {
+      "users_id": 2,
+      "userName": "json유저2",
+      "userMail": "jsonUser2@user.com",
+      "userPassword": "user2",
+      "userPhoneNum": "json유저2핸드폰번호",
+      "userAddr": "json유저2주소",
+      "role": 0,
+      "token": "",
+      "tokenExp": ""
+    },
+    {
+      "users_id": 3,
+      "userName": "json유저3",
+      "userMail": "jsonUser3@user.com",
+      "userPassword": "user3",
+      "userPhoneNum": "json유저3핸드폰번호",
+      "userAddr": "json유저3주소",
+      "role": 0,
+      "token": "",
+      "tokenExp": ""
+    }
+  ],
+ "userProjects": [
+    {
+      "users_id": 1,
+      "userLikeProject": [1,2],
+      "userFundProject": [1,2],
+      "userFundReward": [{"projRewardName":"10월18일/수요일"},{"projRewardName": "일반"}],
+      "userMadeProject": [0]
+    },
+    {
+      "users_id": 2,
+      "userLikeProject": [],
+      "userFundProject": [2],
+      "userFundReward": [{"projRewardName":"일반"}],
+      "userMadeProject": [1]
+    },
+    {
+      "users_id": 3,
+      "userLikeProject": [],
+      "userFundProject": [],
+      "userFundReward": [],
+      "userMadeProject": [2]
+    }
+  ],
+ "countProjects": [
+    {
+      "proj_id": 0,
+      "projLike": 100,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1
+    },
+    {
+      "proj_id": 1,
+      "projLike": 500,
+      "projFundGoal": 300000,
+      "projFundCollect": 150000,
+      "projFundUserCount": 5
+    },
+    {
+      "proj_id": 2,
+      "projLike": 1000,
+      "projFundGoal": 6000000,
+      "projFundCollect": 600000,
+      "projFundUserCount": 2
+    }
+]
 }
