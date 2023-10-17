@@ -25,7 +25,8 @@
         {
           "projRewardName": "10월21일/토요일",
           "projRewardAmount": 13000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -60,12 +61,14 @@
         {
           "projRewardName": "9월6일/수요일",
           "projRewardAmount": 30000,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "10월18일/수요일",
           "projRewardAmount": 30000,
-          "projRewardCount": 4
+          "projRewardCount": 4,
+          "projRewardAvailable": 4
         }
       ],
       "projFundDate": [
@@ -104,7 +107,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 300000,
-          "projRewardCount": 19
+          "projRewardCount": 20,
+          "projRewardAvailable": 18
         }
       ],
       "projFundDate": [
@@ -231,6 +235,52 @@
       "projFundGoal": 6000000,
       "projFundCollect": 600000,
       "projFundUserCount": 2
+    }
+  ],
+  "fundings": [
+    {
+      "funding_id": "FID100001",
+      "user_id": 1,
+      "project_id": 1,
+      "rewards": [
+        {
+          "reward_id": "9월6일/수요일",
+          "price": 30000,
+          "count": 1
+        },
+        {
+          "reward_id": "10월18일/수요일",
+          "price": 30000,
+          "count": 1
+        }
+      ],
+      "fundingDate": "2023-10-12 10:20:21"
+    },
+    {
+      "funding_id": "FID100002",
+      "user_id": 1,
+      "project_id": 2,
+      "rewards": [
+        {
+          "reward_id": "일반",
+          "price": 300000,
+          "count": 1
+        }
+      ],
+      "fundingDate": "2023-10-13 11:20:21"
+    },
+    {
+      "funding_id": "FID100003",
+      "user_id": 2,
+      "project_id": 2,
+      "rewards": [
+        {
+          "reward_id": "일반",
+          "price": 300000,
+          "count": 1
+        }
+      ],
+      "fundingDate": "2023-10-14 12:20:21"
     }
   ]
 }
