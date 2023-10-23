@@ -5,7 +5,7 @@
       "projLike": 1,
       "projFundGoal": 130000,
       "projFundCollect": 10,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 1,
       "projName": "[테스트] 내뫔(몸과맘)의 디톡스, DIY!",
       "projRegion": 5,
@@ -47,7 +47,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 2,
       "projName": "스타트업 C레벨들의 모임, 'CXO의 작당모의' 참여자 모집",
       "projRegion": 0,
@@ -89,7 +89,7 @@
       "projLike": 105,
       "projFundGoal": 230000,
       "projFundCollect": 15500,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 3,
       "projName": "앤릴크밤 최초 내한 반려견 행동학 세미나",
       "projRegion": 0,
@@ -132,7 +132,7 @@
       "projLike": 130,
       "projFundGoal": 1460000,
       "projFundCollect": 15500,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 4,
       "projName": "승인 대기 프로젝트",
       "projRegion": 0,
@@ -175,7 +175,7 @@
       "projLike": 75,
       "projFundGoal": 270000,
       "projFundCollect": 13300,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 5,
       "projName": "마감된 프로젝트1",
       "projRegion": 0,
@@ -218,7 +218,7 @@
       "projLike": 33,
       "projFundGoal": 550000,
       "projFundCollect": 11100,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 6,
       "projName": "마감된 프로젝트2",
       "projRegion": 0,
@@ -261,7 +261,7 @@
       "projLike": 65,
       "projFundGoal": 552500,
       "projFundCollect": 58600,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 7,
       "projName": "마감된 프로젝트3",
       "projRegion": 0,
@@ -304,7 +304,7 @@
       "projLike": 23,
       "projFundGoal": 510000,
       "projFundCollect": 22000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 8,
       "projName": "마감된 프로젝트4",
       "projRegion": 0,
@@ -347,7 +347,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 9,
       "projName": "마감된 프로젝트5",
       "projRegion": 0,
@@ -390,7 +390,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 10,
       "projName": "마감된 프로젝트6",
       "projRegion": 0,
@@ -433,7 +433,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 11,
       "projName": "마감된 프로젝트7",
       "projRegion": 0,
@@ -476,7 +476,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 12,
       "projName": "마감된 프로젝트8",
       "projRegion": 0,
@@ -519,7 +519,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 12,
       "projName": "프로젝트12",
       "projRegion": 0,
@@ -562,7 +562,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 13,
       "projName": "프로젝트13",
       "projRegion": 0,
@@ -605,7 +605,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 14,
       "projName": "프로젝트14",
       "projRegion": 0,
@@ -648,7 +648,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 15,
       "projName": "프로젝트15",
       "projRegion": 0,
@@ -691,7 +691,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 16,
       "projName": "프로젝트16",
       "projRegion": 0,
@@ -734,7 +734,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 17,
       "projName": "프로젝트17",
       "projRegion": 0,
@@ -777,7 +777,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 18,
       "projName": "프로젝트18",
       "projRegion": 0,
@@ -820,7 +820,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 19,
       "projName": "프로젝트19",
       "projRegion": 0,
@@ -863,7 +863,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 1,
       "projName": "프로젝트20",
       "projRegion": 0,
@@ -945,7 +945,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 2,
       "projName": "프로젝트22",
       "projRegion": 0,
@@ -988,7 +988,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 2,
       "projName": "프로젝트23",
       "projRegion": 0,
@@ -1031,7 +1031,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
       "userMade_id": 2,
       "projName": "프로젝트24",
       "projRegion": 0,
@@ -1170,7 +1170,7 @@
       "projLike": 100,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
-      "projFundUserCount": 1
+      "projFundUserCount": 1,
     },
     {
       "proj_id": 1,
