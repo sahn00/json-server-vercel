@@ -17,7 +17,7 @@ const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 
 const cors = require('cors');
-app.use(cors({}));
+server.use(cors({}));
 
 server.use(middlewares);
 // Add this before server.use(router)
