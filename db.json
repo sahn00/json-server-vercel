@@ -2,7 +2,7 @@
   "projects": [
     {
       "proj_id": 0,
-      "projLike": 1,
+      "projLike": 21,
       "projFundGoal": 130000,
       "projFundCollect": 10,
       "projFundUserCount": 1,
@@ -34,7 +34,7 @@
       ],
       "projFundDate": [
         {
-          "projFundStartDate": "2023-11-5",
+          "projFundStartDate": "2023-11-05",
           "projFundEndDate": "2023-11-13"
         }
       ],
@@ -78,7 +78,7 @@
       ],
       "projFundDate": [
         {
-          "projFundStartDate": "2023-11-6",
+          "projFundStartDate": "2023-11-06",
           "projFundEndDate": "2023-11-18"
         }
       ],
@@ -86,7 +86,7 @@
     },
     {
       "proj_id": 101,
-      "projLike": 100,
+      "projLike": 106,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
       "projFundUserCount": 1,
@@ -345,7 +345,7 @@
       "proj_id": 7,
       "projLike": 23,
       "projFundGoal": 510000,
-      "projFundCollect": 22000,
+      "projFundCollect": 222000,
       "projFundUserCount": 1,
       "userMade_id": 8,
       "projName": "마감된 프로젝트4",
@@ -386,9 +386,9 @@
     },
     {
       "proj_id": 8,
-      "projLike": 100,
+      "projLike": 155,
       "projFundGoal": 130000,
-      "projFundCollect": 13000,
+      "projFundCollect": 138000,
       "projFundUserCount": 1,
       "userMade_id": 9,
       "projName": "마감된 프로젝트5",
@@ -429,9 +429,9 @@
     },
     {
       "proj_id": 9,
-      "projLike": 100,
+      "projLike": 85,
       "projFundGoal": 130000,
-      "projFundCollect": 13000,
+      "projFundCollect": 135600,
       "projFundUserCount": 1,
       "userMade_id": 10,
       "projName": "마감된 프로젝트6",
@@ -474,7 +474,7 @@
       "proj_id": 10,
       "projLike": 100,
       "projFundGoal": 130000,
-      "projFundCollect": 13000,
+      "projFundCollect": 13100,
       "projFundUserCount": 1,
       "userMade_id": 11,
       "projName": "마감된 프로젝트7",
@@ -517,7 +517,7 @@
       "proj_id": 11,
       "projLike": 100,
       "projFundGoal": 130000,
-      "projFundCollect": 13000,
+      "projFundCollect": 13800,
       "projFundUserCount": 1,
       "userMade_id": 12,
       "projName": "마감된 프로젝트8",
@@ -945,6 +945,10 @@
     },
 	{
       "proj_id": 21,
+      "projLike": 101,
+      "projFundGoal": 135000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
       "userMade_id": 1,
       "projName": "프로젝트21",
       "projRegion": 0,
@@ -984,7 +988,7 @@
     },
 	{
       "proj_id": 22,
-      "projLike": 100,
+      "projLike": 200,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
       "projFundUserCount": 1,
@@ -1027,7 +1031,7 @@
     },
 	{
       "proj_id": 23,
-      "projLike": 100,
+      "projLike": 300,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
       "projFundUserCount": 1,
@@ -1070,7 +1074,7 @@
     },
 	{
       "proj_id": 24,
-      "projLike": 100,
+      "projLike": 180,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
       "projFundUserCount": 1,
