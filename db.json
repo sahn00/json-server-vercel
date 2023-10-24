@@ -1205,28 +1205,5 @@
         2
       ]
     }
-  ],
-  "countProjects": [
-    {
-      "proj_id": 0,
-      "projLike": 100,
-      "projFundGoal": 130000,
-      "projFundCollect": 13000,
-      "projFundUserCount": 1
-    },
-    {
-      "proj_id": 1,
-      "projLike": 500,
-      "projFundGoal": 300000,
-      "projFundCollect": 150000,
-      "projFundUserCount": 5
-    },
-    {
-      "proj_id": 2,
-      "projLike": 1000,
-      "projFundGoal": 6000000,
-      "projFundCollect": 600000,
-      "projFundUserCount": 2
-    }
   ]
 }
