@@ -1113,11 +1113,11 @@
           "projFundEndDate": "2023-10-31"
         }
       ],
-      "projStatus": 1
+      "projStatus": "1"
     },
     {
       "proj_id": 25,
-      "projLike": 180,
+      "projLike": 200,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
       "projFundUserCount": 1,
@@ -1141,7 +1141,7 @@
       "projPlace": "서울현대교육재단 본관 지하 1층 세미나실",
       "projAddr": "서울 영등포구 양평로12길 13",
       "projDate": [
-        "2023-11-11(토) 10:00 ~ 2023-11-12(일) 17:00"
+        "2023-12-11(토) 10:00 ~ 2023-12-31(일) 17:00"
       ],
       "projReward": [
         {
@@ -1152,11 +1152,11 @@
       ],
       "projFundDate": [
         {
-          "projFundStartDate": "2023-11-11",
-          "projFundEndDate": "2023-12-31"
+          "projFundStartDate": "2023-11-12",
+          "projFundEndDate": "2023-11-31"
         }
       ],
-      "projStatus": 1
+      "projStatus": "1"
     },
     {
       "proj_id": 26,
@@ -1184,7 +1184,7 @@
       "projPlace": "서울현대교육재단 본관 지하 1층 세미나실",
       "projAddr": "서울 영등포구 양평로12길 13",
       "projDate": [
-        "2023-11-11(토) 10:00 ~ 2023-11-12(일) 17:00"
+        "2023-12-11(토) 10:00 ~ 2023-12-31(일) 17:00"
       ],
       "projReward": [
         {
@@ -1196,10 +1196,10 @@
       "projFundDate": [
         {
           "projFundStartDate": "2023-11-11",
-          "projFundEndDate": "2023-12-31"
+          "projFundEndDate": "2023-11-31"
         }
       ],
-      "projStatus": 1
+      "projStatus": "1"
     },
     {
       "proj_id": 27,
@@ -1227,7 +1227,7 @@
       "projPlace": "서울현대교육재단 본관 지하 1층 세미나실",
       "projAddr": "서울 영등포구 양평로12길 13",
       "projDate": [
-        "2023-11-11(토) 10:00 ~ 2023-11-12(일) 17:00"
+        "2023-12-11(토) 10:00 ~ 2023-12-31(일) 17:00"
       ],
       "projReward": [
         {
@@ -1239,10 +1239,10 @@
       "projFundDate": [
         {
           "projFundStartDate": "2023-11-11",
-          "projFundEndDate": "2023-12-31"
+          "projFundEndDate": "2023-11-31"
         }
       ],
-      "projStatus": 1
+      "projStatus": "1"
     },
     {
       "proj_id": 28,
@@ -1270,7 +1270,7 @@
       "projPlace": "서울현대교육재단 본관 지하 1층 세미나실",
       "projAddr": "서울 영등포구 양평로12길 13",
       "projDate": [
-        "2023-11-11(토) 10:00 ~ 2023-11-12(일) 17:00"
+        "2023-12-11(토) 10:00 ~ 2023-12-31(일) 17:00"
       ],
       "projReward": [
         {
@@ -1282,10 +1282,10 @@
       "projFundDate": [
         {
           "projFundStartDate": "2023-11-11",
-          "projFundEndDate": "2023-12-31"
+          "projFundEndDate": "2023-11-31"
         }
       ],
-      "projStatus": 1
+      "projStatus": "1"
     }
   ],
   "users": [
