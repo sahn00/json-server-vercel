@@ -1113,16 +1113,16 @@
           "projFundEndDate": "2023-10-31"
         }
       ],
-      "projStatus": 1
+      "projStatus": "1"
     },
     {
       "proj_id": 25,
-      "projLike": 180,
+      "projLike": 200,
       "projFundGoal": 130000,
       "projFundCollect": 13000,
       "projFundUserCount": 1,
       "userMade_id": 2,
-      "projName": "오픈예정 프로젝트 1",
+      "projName": "프로젝트22",
       "projRegion": 0,
       "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/Cover/8b1b25d1f8a6487894c187b4cad22f84.png",
       "projDetailImgPath": [
@@ -1152,11 +1152,11 @@
       ],
       "projFundDate": [
         {
-          "projFundStartDate": "2023-11-11",
-          "projFundEndDate": "2023-12-31"
+          "projFundStartDate": "2023-10-19",
+          "projFundEndDate": "2023-10-28"
         }
       ],
-      "projStatus": 1
+      "projStatus": "1"
     },
     {
       "proj_id": 26,
@@ -1199,7 +1199,7 @@
           "projFundEndDate": "2023-12-31"
         }
       ],
-      "projStatus": 1
+      "projStatus": "1"
     },
     {
       "proj_id": 27,
@@ -1242,7 +1242,7 @@
           "projFundEndDate": "2023-12-31"
         }
       ],
-      "projStatus": 1
+      "projStatus": "1"
     },
     {
       "proj_id": 28,
@@ -1285,7 +1285,7 @@
           "projFundEndDate": "2023-12-31"
         }
       ],
-      "projStatus": 1
+      "projStatus": "1"
     }
   ],
   "users": [
