@@ -757,24 +757,37 @@
       "projFundCollect": 13000,
       "projFundUserCount": 1,
       "userMade_id": 17,
-      "projName": "[17]스타트업 C레벨들의 모임, 'CXO의 작당모의' 참여자 모집",
+      "projName": "[17]2023 제주아로마페어",
       "projRegion": 0,
-      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/startupcert/70064/ProjectInfo/Cover/13febf09263e46c2993bc1f138093b77.png",
-      "projDetailImgPath": [
-        "https://eventusstorage.blob.core.windows.net/evs/Image/startupcert/null/ProjectInfo/1837e31b12074298b6b413622a635010.png"
-      ],
-      "projIntro": "스타트업 C레벨들이 모여 업계 이야기를 나누는 'CXO의 작당모의'를 통해 네트워킹부터 성장까지 얻어가세요!",
-      "projDesc": "<div class='sandbox'><div align='center' style='text-align: center;'>&nbsp;<img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/ea6dd3e27f974c70abe446b68e9226ef.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/cc428f60b1d84e6d878299813f949286.png'></div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/fbc5018782b940f7bcc19b55d434c4f1.png'>&nbsp;</div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/d90305d03b3d4dcb9b2a99d21b6fa10c.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/77f089d7df5b4d128fec6483d5985975.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/f2b03fbc70634b59b281914b8cefaf68.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/8061f0e3a7f54972ade5d5140eba2956.png'></div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/680fe6946c47458eb6ca4a02bf9b751f.png'>&nbsp;</div><div align='center' style='text-align: center;'><b><span style='font-size: 20px;'>*얼리버드 신청이 마감되어 일반 티켓 구매만 가능합니다!</span></b></div><div align='center' style='text-align: center;'><br></div><div align='center' style='text-align: center;'>※환불 안내※</div><div align='center' style='text-align: center;'>세미나 7일 전까지 100% 환불, 그 이후부터는 환불 불가능.</div></div>",
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/jejuaromafair/72374/ProjectInfo/Cover/59084d6e31944526865e741126ae8876.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "'가을, 아로마로 치유하다'라는 주제로 진행되는 이번 행사를 통해 제주 아로마와 함께하는 다양한 프로그램을 즐겨보세요",
+      "projDesc": "<div class='sandbox'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/jejuaromafair/72374/ProjectInfo/6cb56ca8baea4172ac722c212db3d25e.jpg'></div>",
       "projTag": 2,
-      "projPlace": "서울현대교육재단 본관 지하 1층 세미나실",
-      "projAddr": "서울 영등포구 양평로12길 13",
+      "projPlace": "서귀포 치유의 숲",
+      "projAddr": "제주특별자치도 서귀포시 산록남로 2271",
       "projDate": [
-        "2023-11-11(토) 10:00 ~ 2023-11-12(일) 17:00"
+        "11월 03일(금) 10:00 ~ 11월 04일(토) 17:00"
       ],
       "projReward": [
         {
-          "projRewardName": "일반",
-          "projRewardAmount": 300000,
+          "projRewardName": "나만의 힐링 아로마 조향 체험",
+          "projRewardAmount": 0,
+          "projRewardCount": 19
+        },
+        {
+          "projRewardName": "아로마 재활용 비누 만들기",
+          "projRewardAmount": 0,
+          "projRewardCount": 19
+        },
+        {
+          "projRewardName": "아로마 싱잉볼 명상 및 요가 클래스",
+          "projRewardAmount": 0,
+          "projRewardCount": 19
+        },
+        {
+          "projRewardName": "아로마테라피 페이셜오일 클래스",
+          "projRewardAmount": 0,
           "projRewardCount": 19
         }
       ],
