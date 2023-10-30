@@ -1189,9 +1189,9 @@
       "projFundCollect": 13000,
       "projFundUserCount": 1,
       "userMade_id": 2,
-      "projName": "[28-오픈3-파주 DMZ 평화의 길 댕댕트레킹]",
+      "projName": "[28-오픈3-(오늘은 여행자 살롱)춘천에서 만난 운명의 책]",
       "projRegion": 0,
-      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/papyrus333/71573/ProjectInfo/Cover/c4b7c669fb184627abf602bc92311d18.jpg",
       "projDetailImgPath": [
         "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/ea6dd3e27f974c70abe446b68e9226ef.png",
         "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/cc428f60b1d84e6d878299813f949286.png",
@@ -1202,19 +1202,34 @@
         "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/8061f0e3a7f54972ade5d5140eba2956.png",
         "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/680fe6946c47458eb6ca4a02bf9b751f.png"
       ],
-      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
-      "projDesc": "<div class='sandbox'><div align='center' style='text-align: center;'>&nbsp;<img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/ea6dd3e27f974c70abe446b68e9226ef.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/cc428f60b1d84e6d878299813f949286.png'></div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/fbc5018782b940f7bcc19b55d434c4f1.png'>&nbsp;</div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/d90305d03b3d4dcb9b2a99d21b6fa10c.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/77f089d7df5b4d128fec6483d5985975.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/f2b03fbc70634b59b281914b8cefaf68.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/8061f0e3a7f54972ade5d5140eba2956.png'></div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/680fe6946c47458eb6ca4a02bf9b751f.png'>&nbsp;</div><div align='center' style='text-align: center;'><b><span style='font-size: 20px;'>*얼리버드 신청이 마감되어 일반 티켓 구매만 가능합니다!</span></b></div><div align='center' style='text-align: center;'><br></div><div align='center' style='text-align: center;'>※환불 안내※</div><div align='center' style='text-align: center;'>세미나 7일 전까지 100% 환불, 그 이후부터는 환불 불가능.</div></div>",
+      "projIntro": "(오늘은 여행자 살롱)춘천에서 만난 운명의 책",
+      "projDesc": "<div class='sandbox'><span style='background-color: rgb(119, 119, 119);'>&#xFEFF;<img src='https://eventusstorage.blob.core.windows.net/evs/Image/papyrus333/null/ProjectInfo/9e22b5bc13c542b0837d6b918aa5c61b.jpg'></span></div>",
       "projTag": 2,
-      "projPlace": "율곡습지공원",
-      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projPlace": "1층",
+      "projAddr": "춘천시 안마살로 21",
       "projDate": [
-        "2023-12-11(토) 10:00 ~ 2023-12-31(일) 17:00"
+        "09월 24일(일) 10:00 ~ 12월 10일(일) 10:00"
       ],
       "projReward": [
         {
-          "projRewardName": "일반",
-          "projRewardAmount": 300000,
-          "projRewardCount": 19
+          "projRewardName": "9월 24일 오전 10시",
+          "projRewardAmount": 5000,
+          "projRewardCount": 8
+        },
+        {
+          "projRewardName": "19월 22일 오전 10시",
+          "projRewardAmount": 5000,
+          "projRewardCount": 8
+        },
+        {
+          "projRewardName": "11월 19일 오전 10시",
+          "projRewardAmount": 5000,
+          "projRewardCount": 8
+        },
+        {
+          "projRewardName": "12월 10일 오전 10시",
+          "projRewardAmount": 5000,
+          "projRewardCount": 8
         }
       ],
       "projFundDate": [
