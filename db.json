@@ -241,7 +241,7 @@
       "projReward": [
         {
           "projRewardName": "일반",
-          "projRewardAmount": 0,
+          "projRewardAmount": 15000,
           "projRewardCount": 40
         }
       ],
@@ -260,32 +260,48 @@
       "projFundCollect": 58600,
       "projFundUserCount": 1,
       "userMade_id": 7,
-      "projName": "[6]마감된 프로젝트3",
+      "projName": "[6]2023 난지미술창작스튜디오 오픈스튜디오 《그 후에도》 셔틀버스 운영",
       "projRegion": 0,
-      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/garage/71838/ProjectInfo/Cover/adfa3a3ef49d4225b6db6565143ac25f.png",
-      "projDetailImgPath": [
-        "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/ea6dd3e27f974c70abe446b68e9226ef.png",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/cc428f60b1d84e6d878299813f949286.png",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/fbc5018782b940f7bcc19b55d434c4f1.png",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/d90305d03b3d4dcb9b2a99d21b6fa10c.png",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/77f089d7df5b4d128fec6483d5985975.png",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/f2b03fbc70634b59b281914b8cefaf68.png",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/8061f0e3a7f54972ade5d5140eba2956.png",
-        "https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/680fe6946c47458eb6ca4a02bf9b751f.png"
-      ],
-      "projIntro": "차를 마시면서 내리는 숨과 함께 깊이 에너지를 내립니다. 마음 속 냉기와 무거움이 씻겨 내려갑니다.",
-      "projDesc": "<div class='sandbox'><div align='center' style='text-align: center;'>&nbsp;<img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/ea6dd3e27f974c70abe446b68e9226ef.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/cc428f60b1d84e6d878299813f949286.png'></div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/fbc5018782b940f7bcc19b55d434c4f1.png'>&nbsp;</div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/d90305d03b3d4dcb9b2a99d21b6fa10c.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/77f089d7df5b4d128fec6483d5985975.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/f2b03fbc70634b59b281914b8cefaf68.png'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/8061f0e3a7f54972ade5d5140eba2956.png'></div><div align='center' style='text-align: center;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dogsnature/57945/ProjectInfo/680fe6946c47458eb6ca4a02bf9b751f.png'>&nbsp;</div><div align='center' style='text-align: center;'><b><span style='font-size: 20px;'>*얼리버드 신청이 마감되어 일반 티켓 구매만 가능합니다!</span></b></div><div align='center' style='text-align: center;'><br></div><div align='center' style='text-align: center;'>※환불 안내※</div><div align='center' style='text-align: center;'>세미나 7일 전까지 100% 환불, 그 이후부터는 환불 불가능.</div></div>",
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/semananji/73424/ProjectInfo/Cover/8be312aa111d4dca96262765ba7c1d48.png",
+      "projDetailImgPath": [],
+      "projIntro": "2023 난지미술창작스튜디오 오픈스튜디오 《그 후에도》 셔틀버스 운영",
+      "projDesc": "<div class='sandbox'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/semananji/73424/ProjectInfo/b5217dc1f1e64ebb99025b06620d77ac.jpg'></div>",
       "projTag": 2,
-      "projPlace": "서울현대교육재단 본관 지하 1층 세미나실",
-      "projAddr": "서울 영등포구 양평로12길 13",
+      "projPlace": "서울시립 난지미술창작스튜디오",
+      "projAddr": "서울 마포구 하늘공원로 108-1",
       "projDate": [
-        "2023-11-11(토) 10:00 ~ 2023-11-12(일) 17:00"
+        "11월 03일(금) 13: 00 ~ 11월 05일(일) 19: 00"
       ],
       "projReward": [
         {
-          "projRewardName": "일반",
-          "projRewardAmount": 300000,
-          "projRewardCount": 19
+          "projRewardName": "(1회차) 11월 3일(금) 12:00",
+          "projRewardAmount": 1000,
+          "projRewardCount": 45
+        },
+        {
+          "projRewardName": "(2회차) 11월 3일(금) 14:00",
+          "projRewardAmount": 1000,
+          "projRewardCount": 45
+        },
+        {
+          "projRewardName": "(3회차) 11월 3일(금) 17:00",
+          "projRewardAmount": 1000,
+          "projRewardCount": 45
+        },
+        {
+          "projRewardName": "(4회차) 11월 4일(토) 12:00",
+          "projRewardAmount": 1000,
+          "projRewardCount": 45
+        },
+        {
+          "projRewardName": "(5회차) 11월 4일(토) 14:00",
+          "projRewardAmount": 1000,
+          "projRewardCount": 45
+        },
+        {
+          "projRewardName": "(6회차) 11월 4일(토) 17:00",
+          "projRewardAmount": 1000,
+          "projRewardCount": 45
         }
       ],
       "projFundDate": [
