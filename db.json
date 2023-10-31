@@ -1457,23 +1457,38 @@
       "projFundCollect": 13000,
       "projFundUserCount": 1,
       "userMade_id": 1,
-      "projName": "[35]부산 세븐브릿지 을숙도대교 아웃도어미션 게임<새이마이네임>",
+      "projName": "[35][오늘은 여행자 살롱] 안녕식물",
       "projRegion": 0,
-      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/ulsukdosevenbridge/58085/ProjectInfo/Cover/b00d8a1a4d7b4e68b6b104ce5dbf7885.png",
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/pullro/71335/ProjectInfo/Cover/4faaed394b5d42b380b73eb0146ddcfd.jpg",
       "projDetailImgPath": [],
-      "projIntro": "을숙도 조각공원에서 진행되는 야외방탈출 이벤트",
+      "projIntro": "식물볼(식물+이끼) 만들기 커뮤니티",
       "projDesc": "<div class='sandbox'><div style='' align=''><div style='position: relative; height:0; padding-bottom: 56.25%;'><iframe style='position: absolute; width:100%; height:100%; left: 0px;' allowfullscreen='' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' frameborder='0' src='https://www.youtube.com/embed/Po4nVqZFvr4'></iframe></div></div><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/ulsukdosevenbridge/58085/ProjectInfo/27222609b9774e7797fecca1b61107c3.jpg'>&nbsp;</p></div>",
       "projTag": 2,
-      "projPlace": "세븐브릿지 을숙도 조각공원 일대",
-      "projAddr": "부산 사하구 낙동남로 1191 1층 현대미술관 내 도피오커피 카운터 게임키트수령",
+      "projPlace": "세븐브릿지 을숙도 조각공원 일대1층 (효자동)",
+      "projAddr": "춘천로 204번길 30-8",
       "projDate": [
-        "2023-03-25(토) 11:00 ~ 2023-12-31(일) 15:00"
+        "09월 23일(토) 10: 00 ~ 12월 09일(토) 12: 00"
       ],
       "projReward": [
         {
-          "projRewardName": "일반",
-          "projRewardAmount": 11000,
-          "projRewardCount": 70
+          "projRewardName": "9월 23일 (토) 오전 10시",
+          "projRewardAmount": 20000,
+          "projRewardCount": 5
+        },
+        {
+          "projRewardName": "10월 21일 (토) 오전 10시",
+          "projRewardAmount": 20000,
+          "projRewardCount": 5
+        },
+        {
+          "projRewardName": "11월 18일 (토) 오전 10시",
+          "projRewardAmount": 20000,
+          "projRewardCount": 5
+        },
+        {
+          "projRewardName": "12월 19일 (토) 오전 10시",
+          "projRewardAmount": 20000,
+          "projRewardCount": 5
         }
       ],
       "projFundDate": [
