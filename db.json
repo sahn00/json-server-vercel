@@ -23,7 +23,8 @@
         {
           "projRewardName": "일반신청",
           "projRewardAmount": 79000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -59,22 +60,26 @@
         {
           "projRewardName": "1기 (10/28)",
           "projRewardAmount": 0,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "4기 (11/04)",
           "projRewardAmount": 0,
-          "projRewardCount": 4
+          "projRewardCount": 4,
+          "projRewardAvailable": 3
         },
         {
           "projRewardName": "6기 (11/11)",
           "projRewardAmount": 0,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "8기 (11/18)",
           "projRewardAmount": 0,
-          "projRewardCount": 4
+          "projRewardCount": 4,
+          "projRewardAvailable": 3
         }
       ],
       "projFundDate": [
@@ -111,12 +116,14 @@
         {
           "projRewardName": "9월6일/수요일",
           "projRewardAmount": 30000,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "10월18일/수요일",
           "projRewardAmount": 30000,
-          "projRewardCount": 4
+          "projRewardCount": 4,
+          "projRewardAvailable": 3
         }
       ],
       "projFundDate": [
@@ -150,22 +157,26 @@
         {
           "projRewardName": "9월 23일/토요일",
           "projRewardAmount": 13000,
-          "projRewardCount": 2
+          "projRewardCount": 2,
+          "projRewardAvailable": 1
         },
         {
           "projRewardName": "10월 21일/토요일",
           "projRewardAmount": 13000,
-          "projRewardCount": 2
+          "projRewardCount": 2,
+          "projRewardAvailable": 1
         },
         {
           "projRewardName": "11월 18일/토요일",
           "projRewardAmount": 13000,
-          "projRewardCount": 2
+          "projRewardCount": 2,
+          "projRewardAvailable": 1
         },
         {
           "projRewardName": "12월 09일/토요일",
           "projRewardAmount": 13000,
-          "projRewardCount": 2
+          "projRewardCount": 2,
+          "projRewardAvailable": 1
         }
       ],
       "projFundDate": [
@@ -199,7 +210,8 @@
         {
           "projRewardName": "11월 7일 화요일",
           "projRewardAmount": 10000,
-          "projRewardCount": 19
+          "projRewardCount": 19,
+          "projRewardAvailable": 17
         }
       ],
       "projFundDate": [
@@ -233,7 +245,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 15000,
-          "projRewardCount": 40
+          "projRewardCount": 40,
+          "projRewardAvailable": 38
         }
       ],
       "projFundDate": [
@@ -267,32 +280,38 @@
         {
           "projRewardName": "(1회차) 11월 3일(금) 12:00",
           "projRewardAmount": 1000,
-          "projRewardCount": 45
+          "projRewardCount": 45,
+          "projRewardAvailable": 42
         },
         {
           "projRewardName": "(2회차) 11월 3일(금) 14:00",
           "projRewardAmount": 1000,
-          "projRewardCount": 45
+          "projRewardCount": 45,
+          "projRewardAvailable": 40
         },
         {
           "projRewardName": "(3회차) 11월 3일(금) 17:00",
           "projRewardAmount": 1000,
-          "projRewardCount": 45
+          "projRewardCount": 45,
+          "projRewardAvailable": 38
         },
         {
           "projRewardName": "(4회차) 11월 4일(토) 12:00",
           "projRewardAmount": 1000,
-          "projRewardCount": 45
+          "projRewardCount": 45,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "(5회차) 11월 4일(토) 14:00",
           "projRewardAmount": 1000,
-          "projRewardCount": 45
+          "projRewardCount": 45,
+          "projRewardAvailable": 44
         },
         {
           "projRewardName": "(6회차) 11월 4일(토) 17:00",
           "projRewardAmount": 1000,
-          "projRewardCount": 45
+          "projRewardCount": 45,
+          "projRewardAvailable": 30
         }
       ],
       "projFundDate": [
@@ -326,7 +345,8 @@
         {
           "projRewardName": "11월4일 토요일",
           "projRewardAmount": 20000,
-          "projRewardCount": 31
+          "projRewardCount": 31,
+          "projRewardAvailable": 22
         }
       ],
       "projFundDate": [
@@ -360,7 +380,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 0,
-          "projRewardCount": 20
+          "projRewardCount": 20,
+          "projRewardAvailable": 11
         }
       ],
       "projFundDate": [
@@ -394,7 +415,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 0,
-          "projRewardCount": 55
+          "projRewardCount": 55,
+          "projRewardAvailable": 50
         }
       ],
       "projFundDate": [
@@ -428,7 +450,8 @@
         {
           "projRewardName": "Custom Packaging",
           "projRewardAmount": 0,
-          "projRewardCount": 97
+          "projRewardCount": 97,
+          "projRewardAvailable": 90
         }
       ],
       "projFundDate": [
@@ -462,7 +485,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 0,
-          "projRewardCount": 93
+          "projRewardCount": 93,
+          "projRewardAvailable": 88
         }
       ],
       "projFundDate": [
@@ -496,7 +520,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 300000,
-          "projRewardCount": 19
+          "projRewardCount": 19,
+          "projRewardAvailable": 11
         }
       ],
       "projFundDate": [
@@ -530,32 +555,38 @@
         {
           "projRewardName": "11/7(화) 13:30 ~ 15:00",
           "projRewardAmount": 0,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "11/9(목) 13:30 ~ 15:00",
           "projRewardAmount": 0,
-          "projRewardCount": 4
+          "projRewardCount": 4,
+          "projRewardAvailable": 3
         },
         {
           "projRewardName": "11/14(화) 13:30 ~ 15:00",
           "projRewardAmount": 0,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "11/16(목) 13:30 ~ 15:00",
           "projRewardAmount": 0,
-          "projRewardCount": 4
+          "projRewardCount": 4,
+          "projRewardAvailable": 3
         },
         {
           "projRewardName": "11/21(화) 13:30 ~ 15:00",
           "projRewardAmount": 0,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "11/23(목) 13:30 ~ 15:00",
           "projRewardAmount": 0,
-          "projRewardCount": 4
+          "projRewardCount": 4,
+          "projRewardAvailable": 3
         }
       ],
       "projFundDate": [
@@ -589,22 +620,26 @@
         {
           "projRewardName": "9월 24일/일요일 14시",
           "projRewardAmount": 5000,
-          "projRewardCount": 2
+          "projRewardCount": 2,
+          "projRewardAvailable": 1
         },
         {
           "projRewardName": "10월 22일/일요일 14시",
           "projRewardAmount": 5000,
-          "projRewardCount": 4
+          "projRewardCount": 4,
+          "projRewardAvailable": 3
         },
         {
           "projRewardName": "11월 19일/일요일 14시",
           "projRewardAmount": 5000,
-          "projRewardCount": 7
+          "projRewardCount": 7,
+          "projRewardAvailable": 6
         },
         {
           "projRewardName": "12월 10일/일요일",
           "projRewardAmount": 5000,
-          "projRewardCount": 1
+          "projRewardCount": 1,
+          "projRewardAvailable": 1
         }
       ],
       "projFundDate": [
@@ -638,7 +673,8 @@
         {
           "projRewardName": "국경없는 의사회",
           "projRewardAmount": 0,
-          "projRewardCount": 50
+          "projRewardCount": 50,
+          "projRewardAvailable": 40
         }
       ],
       "projFundDate": [
@@ -672,7 +708,8 @@
         {
           "projRewardName": "아웃도어 미션게임",
           "projRewardAmount": 15000,
-          "projRewardCount": 19
+          "projRewardCount": 19,
+          "projRewardAvailable": 16
         }
       ],
       "projFundDate": [
@@ -706,22 +743,26 @@
         {
           "projRewardName": "나만의 힐링 아로마 조향 체험",
           "projRewardAmount": 0,
-          "projRewardCount": 19
+          "projRewardCount": 19,
+          "projRewardAvailable": 16
         },
         {
           "projRewardName": "아로마 재활용 비누 만들기",
           "projRewardAmount": 0,
-          "projRewardCount": 19
+          "projRewardCount": 19,
+          "projRewardAvailable": 10
         },
         {
           "projRewardName": "아로마 싱잉볼 명상 및 요가 클래스",
           "projRewardAmount": 0,
-          "projRewardCount": 19
+          "projRewardCount": 19,
+          "projRewardAvailable": 18
         },
         {
           "projRewardName": "아로마테라피 페이셜오일 클래스",
           "projRewardAmount": 0,
-          "projRewardCount": 19
+          "projRewardCount": 19,
+          "projRewardAvailable": 12
         }
       ],
       "projFundDate": [
@@ -764,7 +805,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 300000,
-          "projRewardCount": 19
+          "projRewardCount": 19,
+          "projRewardAvailable": 17
         }
       ],
       "projFundDate": [
@@ -807,7 +849,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 50000,
-          "projRewardCount": 99
+          "projRewardCount": 99,
+          "projRewardAvailable": 96
         }
       ],
       "projFundDate": [
@@ -841,7 +884,8 @@
         {
           "projRewardName": "쿠킹 클래스",
           "projRewardAmount": 10000,
-          "projRewardCount": 50
+          "projRewardCount": 50,
+          "projRewardAvailable": 48
         }
       ],
       "projFundDate": [
@@ -875,7 +919,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 11000,
-          "projRewardCount": 70
+          "projRewardCount": 70,
+          "projRewardAvailable": 69
         }
       ],
       "projFundDate": [
@@ -909,7 +954,8 @@
         {
           "projRewardName": "클래스",
           "projRewardAmount": 79000,
-          "projRewardCount": 12
+          "projRewardCount": 12,
+          "projRewardAvailable": 10
         }
       ],
       "projFundDate": [
@@ -943,7 +989,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 10000,
-          "projRewardCount": 80
+          "projRewardCount": 80,
+          "projRewardAvailable": 77
         }
       ],
       "projFundDate": [
@@ -977,17 +1024,20 @@
         {
           "projRewardName": "베트남 요리교실(11.17 금)",
           "projRewardAmount": 10000,
-          "projRewardCount": 30
+          "projRewardCount": 30,
+          "projRewardAvailable": 25
         },
         {
           "projRewardName": "베트남 요리교실(11.18 토)",
           "projRewardAmount": 10000,
-          "projRewardCount": 30
+          "projRewardCount": 30,
+          "projRewardAvailable": 22
         },
         {
           "projRewardName": "베트남 요리교실(11.19 일)",
           "projRewardAmount": 10000,
-          "projRewardCount": 30
+          "projRewardCount": 30,
+          "projRewardAvailable": 26
         }
       ],
       "projFundDate": [
@@ -1021,7 +1071,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": "0",
-          "projRewardCount": 20
+          "projRewardCount": 20,
+          "projRewardAvailable": 17
         }
       ],
       "projFundDate": [
@@ -1055,7 +1106,8 @@
         {
           "projRewardName": "반려견 구분",
           "projRewardAmount": 10000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
         }
       ],
       "projFundDate": [
@@ -1089,22 +1141,26 @@
         {
           "projRewardName": "9월 23일",
           "projRewardAmount": 5000,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "10월 21일",
           "projRewardAmount": 5000,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 5
         },
         {
           "projRewardName": "11월 18일",
           "projRewardAmount": 5000,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 5
         },
         {
           "projRewardName": "12월 9일",
           "projRewardAmount": 5000,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 2
         }
       ],
       "projFundDate": [
@@ -1138,22 +1194,26 @@
         {
           "projRewardName": "9월 24일 오전 10시",
           "projRewardAmount": 5000,
-          "projRewardCount": 8
+          "projRewardCount": 8,
+          "projRewardAvailable": 8
         },
         {
           "projRewardName": "19월 22일 오전 10시",
           "projRewardAmount": 5000,
-          "projRewardCount": 8
+          "projRewardCount": 8,
+          "projRewardAvailable": 8
         },
         {
           "projRewardName": "11월 19일 오전 10시",
           "projRewardAmount": 5000,
-          "projRewardCount": 8
+          "projRewardCount": 8,
+          "projRewardAvailable": 7
         },
         {
           "projRewardName": "12월 10일 오전 10시",
           "projRewardAmount": 5000,
-          "projRewardCount": 8
+          "projRewardCount": 8,
+          "projRewardAvailable": 6
         }
       ],
       "projFundDate": [
@@ -1187,7 +1247,8 @@
         {
           "projRewardName": "일반",
           "projRewardAmount": 0,
-          "projRewardCount": 30
+          "projRewardCount": 30,
+          "projRewardAvailable": 30
         }
       ],
       "projFundDate": [
@@ -1221,7 +1282,8 @@
         {
           "projRewardName": "1일 클래스",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -1255,7 +1317,8 @@
         {
           "projRewardName": "음악회",
           "projRewardAmount": 35000,
-          "projRewardCount": 100
+          "projRewardCount": 100,
+          "projRewardAvailable": 95
         }
       ],
       "projFundDate": [
@@ -1289,12 +1352,14 @@
         {
           "projRewardName": "초등학생 및 중학생 대상",
           "projRewardAmount": 0,
-          "projRewardCount": 35
+          "projRewardCount": 35,
+          "projRewardAvailable": 30
         },
         {
           "projRewardName": "고등학생 및 성인 대상",
           "projRewardAmount": 0,
-          "projRewardCount": 35
+          "projRewardCount": 35,
+          "projRewardAvailable": 34
         }
       ],
       "projFundDate": [
@@ -1328,12 +1393,14 @@
         {
           "projRewardName": "11월 18일(토) 저녁 7시",
           "projRewardAmount": 15000,
-          "projRewardCount": 12
+          "projRewardCount": 12,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "12월 09일(토) 저녁 7시",
           "projRewardAmount": 15000,
-          "projRewardCount": 12
+          "projRewardCount": 12,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -1367,12 +1434,14 @@
         {
           "projRewardName": "11월 04일",
           "projRewardAmount": 0,
-          "projRewardCount": 70
+          "projRewardCount": 70,
+          "projRewardAvailable": 66
         },
         {
           "projRewardName": "11월 05일",
           "projRewardAmount": 0,
-          "projRewardCount": 70
+          "projRewardCount": 70,
+          "projRewardAvailable": 67
         }
       ],
       "projFundDate": [
@@ -1406,22 +1475,26 @@
         {
           "projRewardName": "9월 23일 (토) 오전 10시",
           "projRewardAmount": 20000,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 5
         },
         {
           "projRewardName": "10월 21일 (토) 오전 10시",
           "projRewardAmount": 20000,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "11월 18일 (토) 오전 10시",
           "projRewardAmount": 20000,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "12월 19일 (토) 오전 10시",
           "projRewardAmount": 20000,
-          "projRewardCount": 5
+          "projRewardCount": 5,
+          "projRewardAvailable": 3
         }
       ],
       "projFundDate": [
@@ -1455,22 +1528,26 @@
         {
           "projRewardName": "11월 10일 금 13시",
           "projRewardAmount": 10000,
-          "projRewardCount": 70
+          "projRewardCount": 70,
+          "projRewardAvailable": 66
         },
         {
           "projRewardName": "11월 10일 금 18시",
           "projRewardAmount": 10000,
-          "projRewardCount": 70
+          "projRewardCount": 70,
+          "projRewardAvailable": 70
         },
         {
           "projRewardName": "11월 11일 토 13시",
           "projRewardAmount": 10000,
-          "projRewardCount": 70
+          "projRewardCount": 70,
+          "projRewardAvailable": 65
         },
         {
           "projRewardName": "11월 11일 금 18시",
           "projRewardAmount": 10000,
-          "projRewardCount": 70
+          "projRewardCount": 70,
+          "projRewardAvailable": 64
         }
       ],
       "projFundDate": [
@@ -1504,7 +1581,8 @@
         {
           "projRewardName": "참여",
           "projRewardAmount": 0,
-          "projRewardCount": 20
+          "projRewardCount": 20,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -1538,7 +1616,8 @@
         {
           "projRewardName": "Custom Boxes",
           "projRewardAmount": 0,
-          "projRewardCount": 30
+          "projRewardCount": 30,
+          "projRewardAvailable": 22
         }
       ],
       "projFundDate": [
@@ -1572,22 +1651,26 @@
         {
           "projRewardName": "9월 24일 일요일 오후 2시",
           "projRewardAmount": 15000,
-          "projRewardCount": 6
+          "projRewardCount": 6,
+          "projRewardAvailable": 4
         },
         {
           "projRewardName": "10월 22일 일요일 오후 2시",
           "projRewardAmount": 15000,
-          "projRewardCount": 6
+          "projRewardCount": 6,
+          "projRewardAvailable": 5
         },
         {
           "projRewardName": "11월 19일 일요일 오후 2시",
           "projRewardAmount": 15000,
-          "projRewardCount": 6
+          "projRewardCount": 6,
+          "projRewardAvailable": 5
         },
         {
           "projRewardName": "12월 10일 일요일 오후 2시",
           "projRewardAmount": 15000,
-          "projRewardCount": 6
+          "projRewardCount": 6,
+          "projRewardAvailable": 6
         }
       ],
       "projFundDate": [
@@ -1621,22 +1704,26 @@
         {
           "projRewardName": "신청자본인",
           "projRewardAmount": 100000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "추가 부부",
           "projRewardAmount": 100000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "추가 가족1",
           "projRewardAmount": 100000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "추가 가족2",
           "projRewardAmount": 100000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -1670,7 +1757,8 @@
         {
           "projRewardName": "[링글] 영어 원서 혼자 읽기 프로그램",
           "projRewardAmount": 29000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -1704,32 +1792,38 @@
         {
           "projRewardName": "11월 25일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "11월 26일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "11월 27일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "11월 28일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "11월 29일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "11월 30일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -1763,7 +1857,8 @@
         {
           "projRewardName": "전시무료초대",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -1797,7 +1892,8 @@
         {
           "projRewardName": "[재활용 마켓]",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -1831,7 +1927,8 @@
         {
           "projRewardName": "2023 강남 유닉투어",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -1865,7 +1962,8 @@
         {
           "projRewardName": "11월 11일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -1899,12 +1997,14 @@
         {
           "projRewardName": "11월 19일",
           "projRewardAmount": 5000,
-          "projRewardCount": 6
+          "projRewardCount": 6,
+          "projRewardAvailable": 5
         },
         {
           "projRewardName": "12월 10일",
           "projRewardAmount": 5000,
-          "projRewardCount": 6
+          "projRewardCount": 6,
+          "projRewardAvailable": 6
         }
       ],
       "projFundDate": [
@@ -1938,7 +2038,8 @@
         {
           "projRewardName": "11월 11일",
           "projRewardAmount": 5000,
-          "projRewardCount": 40
+          "projRewardCount": 40,
+          "projRewardAvailable": 32
         }
       ],
       "projFundDate": [
@@ -1972,7 +2073,8 @@
         {
           "projRewardName": "참가자",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
