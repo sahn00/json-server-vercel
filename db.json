@@ -2108,12 +2108,14 @@
         {
           "projRewardName": "11월 18일",
           "projRewardAmount": 10000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "12월 09일",
           "projRewardAmount": 10000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -2147,12 +2149,14 @@
         {
           "projRewardName": "11월 18일",
           "projRewardAmount": 10000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "12월 09일",
           "projRewardAmount": 10000,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -2186,17 +2190,20 @@
         {
           "projRewardName": "11월 29일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "11월 30일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         },
         {
           "projRewardName": "12월 01일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -2230,7 +2237,8 @@
         {
           "projRewardName": "애드컬리지",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
@@ -2264,7 +2272,8 @@
         {
           "projRewardName": "11월 30일",
           "projRewardAmount": 0,
-          "projRewardCount": 10
+          "projRewardCount": 10,
+          "projRewardAvailable": 9
         }
       ],
       "projFundDate": [
