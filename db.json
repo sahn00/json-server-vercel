@@ -2283,6 +2283,531 @@
         }
       ],
       "projStatus": "1"
+    },
+    {
+      "proj_id": 55,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "한림대 X 강원대 멋쟁이사자처럼 연합해커톤 감자톤",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/potatothon/72713/ProjectInfo/Cover/1ec323d878c14409af860d459ff6cbec.png",
+      "projDetailImgPath": [],
+      "projIntro": "HALLYM X KANGWON LIKELION, 제 1회 연합해커톤 감자톤",
+      "projDesc": "<div class='sandbox'><div><b style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255);'><span style='font-size: 16px;'>🥔 감자톤</span></b><span style='color: rgb(32, 33, 36); font-family: docs-Roboto; background-color: rgb(255, 255, 255); font-size: 16px;'>은&nbsp;강원도 내의 두 대학교 학생들을 대상으로,&nbsp;SW&nbsp;개발 분야와 디자인 분야를 희망하는 참가자들이 모여 아이디어를 도출하고 결과물을 만들어 내는 연합 해커톤 대회입니다.</span>&nbsp;</div><div style='background-color: rgb(255, 255, 255);'><p style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px;'><br></p><p style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px;'><b><span style='font-size: 18px;'>🏆 대회</span></b><b><span style='font-size: 18px;'>&nbsp;</span></b><b><span style='font-size: 18px;'>개요</span></b><br><b></b></p><p style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; line-height: 2;'><span style='font-size: 14px;'>‣&nbsp;</span><b><span style='font-size: 14px;'>진행 기간</span></b><span style='font-size: 14px;'>&nbsp;: 2023년 11월 18일(토) ~ 11월 19일(일)</span><br><span style='font-size: 14px;'>‣</span><span style='font-size: 14px;'>&nbsp;</span><b><span style='font-size: 14px;'>진행 장소</span></b><span style='font-size: 14px;'>&nbsp;: 한림대학교 공학관 1163호실</span><br><span style='font-size: 14px;'>‣</span><span style='font-size: 14px;'>&nbsp;</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Apple SD Gothic Neo&quot;;' class=''><b>참가비</b></span><span style='font-family: &quot;Helvetica Neue&quot;; font-size: 14px;'>&nbsp;: 1</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Apple SD Gothic Neo&quot;;' class=''>인</span><span style='font-family: &quot;Helvetica Neue&quot;; font-size: 14px;'>&nbsp;25,000</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Apple SD Gothic Neo&quot;;' class=''>원</span><br><span style='font-size: 14px;'>‣</span><span style='font-size: 14px;'>&nbsp;</span><b><span style='font-size: 14px;'>참가 형태&nbsp;</span></b><span style='font-size: 14px;'>:&nbsp;</span><span style='color: rgb(23, 23, 23); font-family: 돋움, Dotum, Helvetica, sans-serif; font-size: 15px; letter-spacing: -0.46875px; white-space-collapse: preserve-breaks;'>강원대/한림대학교 멋쟁이사자처럼 부원 및 해당 학교 재학생&nbsp;</span>개인 또는 2인 이상(최대 4인)으로 구성된 팀</p><p style='font-style: normal; font-variant: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 2; font-family: &quot;Apple SD Gothic Neo&quot;; margin: 0px;' class=''><span style='font-weight: normal; color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14px;'>‣</span><span style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14px;'>&nbsp;<b>준비물</b></span><span style='font: 14px &quot;Helvetica Neue&quot;;' class=''><span style='color: rgb(32, 33, 36); font-family: docs-Roboto;'>&nbsp;</span>&nbsp;: </span><span style='font-weight: normal; font-size: 14px;'>개인</span><span style='font: 14px &quot;Helvetica Neue&quot;;' class=''> </span><span style='font-weight: normal; font-size: 14px;'>노트북</span><span style='font: 14px &quot;Helvetica Neue&quot;;' class=''>, </span><span style='font-weight: normal; font-size: 14px;'>충전기</span><span style='font: 14px &quot;Helvetica Neue&quot;;' class=''>, </span><span style='font-weight: normal; font-size: 14px;'>개인</span><span style='font: 14px &quot;Helvetica Neue&quot;;' class=''> </span><span style='font-weight: normal; font-size: 14px;'>물이나</span><span style='font: 14px &quot;Helvetica Neue&quot;;' class=''> </span><span style='font-weight: normal; font-size: 14px;'>음료</span><span style='font: 14px &quot;Helvetica Neue&quot;;' class=''> </span><span style='font-weight: normal; font-size: 14px;'>등</span></p><p style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; line-height: 2;'><span style='font-size: 14px;'>‣</span><span style='font-size: 14px;'>&nbsp;</span><b><span style='font-size: 14px;'>참가자 혜택&nbsp;</span></b><span style='font-size: 14px;'>: 팀별 서버 지원, 전문가 멘토링,&nbsp;식사 제공(18일 저녁, 19일 아침) 등</span></p><p style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; line-height: 2;'><span style='font-size: 14px;'>‣</span><span style='font-size: 14px;'>&nbsp;</span><b><span style='font-size: 14px;'>상금&nbsp;</span></b><span style='font-size: 14px;'>: 최우수상(1팀) 30만원, 우수상(1팀) 20만원, 장려상(2팀) 5만원</span></p><p style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; line-height: 2;'><span style='font-size: 14px;'>‣&nbsp;</span><span style='font-family: &quot;Apple SD Gothic Neo&quot;; font-size: 14px;'>해당</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Helvetica Neue&quot;;' class=''>&nbsp;</span><span style='font-family: &quot;Apple SD Gothic Neo&quot;; font-size: 14px;'>대회</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Helvetica Neue&quot;;' class=''>&nbsp;</span><span style='font-family: &quot;Apple SD Gothic Neo&quot;; font-size: 14px;'>특성</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Helvetica Neue&quot;;' class=''>&nbsp;</span><span style='font-family: &quot;Apple SD Gothic Neo&quot;; font-size: 14px;'>상</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Helvetica Neue&quot;;' class=''>,&nbsp;</span><b style='font-size: 14.6667px;'><span style='font-family: &quot;Apple SD Gothic Neo&quot;; font-size: 14px;'>주제는</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Helvetica Neue&quot;;' class=''>&nbsp;</span><span style='font-family: &quot;Apple SD Gothic Neo&quot;; font-size: 14px;'>당일</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Helvetica Neue&quot;;' class=''>&nbsp;</span></b><span style='font-family: &quot;Apple SD Gothic Neo&quot;; font-size: 14px;'><b><span style='font-size: 14px;'>공개</span></b>를</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Helvetica Neue&quot;;' class=''>&nbsp;</span><span style='font-family: &quot;Apple SD Gothic Neo&quot;; font-size: 14px;'>원칙으로</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Helvetica Neue&quot;;' class=''>&nbsp;</span><span style='font-family: &quot;Apple SD Gothic Neo&quot;; font-size: 14px;'>하고</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Helvetica Neue&quot;;' class=''>&nbsp;</span><span style='font-family: &quot;Apple SD Gothic Neo&quot;; font-size: 14px;'>있습니다</span><span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 14px; font-family: &quot;Helvetica Neue&quot;;' class=''>.</span></p><p style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; line-height: 2;'><span style='font: 14px &quot;Apple SD Gothic Neo&quot;;' class=''><span style='font-family: docs-Roboto;'>‣&nbsp;</span><b style='font-family: docs-Roboto; font-size: 14.6667px;'><span style='font-size: 14px;'>주최 및 주관</span></b><span style='font-family: docs-Roboto;'>&nbsp;: 한림대학교, 강원대학교 멋쟁이사자처럼 대학</span>&nbsp;</span></p></div><div style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255);'><br></div><div style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255);'><b><span style='font-size: 18px;'>📄 참가 신청 안내</span></b></div><div style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255); line-height: 2;'><span style='font-size: 14px;'>-&nbsp;</span><b><span style='font-size: 14px;'>신청 기간</span></b><span style='font-size: 14px;'>&nbsp;: 2023.10.18 17:00 ~&nbsp;2023.11.01 23:30까지</span></div><div style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255); line-height: 2;'><span style='font-size: 14px;'>-&nbsp;</span><b><span style='font-size: 14px;'>참가비&nbsp;</span></b><span style='font-size: 14px;'>: 25,000원</span></div><div style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255);'><br></div><div style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255);'><br></div><div style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255);'><span style='font-size: 16px;'><span style='font-size: 16px;'>📍</span>자세한 내용은 아래 링크를 참조해주세요!</span></div><div style='background-color: rgb(255, 255, 255);'><span style='font-family: docs-Roboto; color: rgb(32, 33, 36);'><span style='font-size: 14px;'><a href='https://heoy23.notion.site/2023-LIKELION-POTATOTHON-61799bdd7d6f46efb43325ae22dab597?pvs=4' target='_self'>https://heoy23.notion.site/2023-LIKELION-POTATOTHON-61799bdd7d6f46efb43325ae22dab597?pvs=4</a></span></span>&nbsp;</div><div style='background-color: rgb(255, 255, 255);'><span style='font-family: docs-Roboto; color: rgb(32, 33, 36);'><span style='font-size: 18px;'><br></span></span></div><div style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255);'><span style='font-size: 16px;'>⚠️&nbsp;추가 신청은 받지 않으니 신청 기간 내에 지원 부탁드립니다.</span></div><div style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255);'><span style='font-size: 16px;'><br></span></div><div style='color: rgb(32, 33, 36); font-family: docs-Roboto; font-size: 14.6667px; background-color: rgb(255, 255, 255);'><span style='font-size: 16px;'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/potatothon/72713/ProjectInfo/cefd86611aff4ffead908eb4e3441d85.png'></span></div></div>",
+      "projTag": 2,
+      "projPlace": "한림대학교 공학관 1163호",
+      "projAddr": "강원특별자치도 춘천시 한림대학길 1",
+      "projDate": [
+        "11월 18일(토) 14: 00 ~ 11월 19일(일) 10: 30"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "해커톤 신청",
+          "projRewardAmount": 25000,
+          "projRewardCount": 20,
+          "projRewardAvailable": 14
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 56,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 57,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 58,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 59,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 60,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 61,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 62,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 63,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 64,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 65,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 66,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 67,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 68,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
+    },
+    {
+      "proj_id": 69,
+      "projLike": 200,
+      "projFundGoal": 130000,
+      "projFundCollect": 13000,
+      "projFundUserCount": 1,
+      "userMade_id": 2,
+      "projName": "파주 DMZ 평화의 길 댕댕트레킹",
+      "projRegion": 0,
+      "projMainImgPath": "https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/Cover/fe16adfba55b4a9c9611a972769f78ad.jpg",
+      "projDetailImgPath": [],
+      "projIntro": "우리집 댕댕이와 함께하는 민통선 내 DMZ 평화의 길 트레킹!!",
+      "projDesc": "<div class='sandbox'><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/19d2ed9447e14536ac439196dc90504f.jpg'></p><p><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/beeb07e3d64a492ea9984869189f4ef4.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/8d79da7de85441198da90e6cab78e34a.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/adadfc594f6c46cfbaff33ce2303bb7b.jpg'><img src='https://eventusstorage.blob.core.windows.net/evs/Image/dmzpuppytrekking/73470/ProjectInfo/1d1a0af2c6d64c1c8fb428436e29ec3a.jpg'></p></div>",
+      "projTag": 2,
+      "projPlace": "율곡습지공원",
+      "projAddr": "경기 파주시 파평면 율곡리 191-3",
+      "projDate": [
+        "11월 10일(금) 13: 30 ~ 15: 00"
+      ],
+      "projReward": [
+        {
+          "projRewardName": "반려견구분",
+          "projRewardAmount": 10000,
+          "projRewardCount": 10,
+          "projRewardAvailable": 10
+        }
+      ],
+      "projFundDate": [
+        {
+          "projFundStartDate": "2023-11-01",
+          "projFundEndDate": "2024-11-31"
+        }
+      ],
+      "projStatus": "1"
     }
   ],
   "users": [
